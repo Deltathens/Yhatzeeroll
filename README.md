@@ -1,2 +1,2 @@
 # Yhatzeeroll
-A python yhatzee rolling program.
+A python yhatzee roller.
